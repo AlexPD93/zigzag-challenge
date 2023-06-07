@@ -14,7 +14,7 @@ Clone this repo.
 
 Run ``npm install``
 
-Make sure you have **Angular** and **NestJs** cli's isntalled. 
+Make sure you have **Angular** and **NestJs** cli's installed. 
 
 Angular: ``npm install -g @angular/cli``
 
