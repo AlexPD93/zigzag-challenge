@@ -1,0 +1,9 @@
+<div class="container" *ngFor="let dog of dogs$ | async">
+  <div class="card">
+    <img [src]="dog.image_link" alt="{{ dog.name }} picture" />
+    <h3>Breed: {{ dog.name }}</h3>
+    <p>Playfulness rating: {{ dog.playfulness }}</p>
+    <p>Min life expectancy: {{ dog.min_life_expectancy }}</p>
+    <p>Max life expectancy: {{ dog.max_life_expectancy }}</p>
+  </div>
+</div>
