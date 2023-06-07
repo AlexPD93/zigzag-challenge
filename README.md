@@ -12,6 +12,8 @@ Angular and Nestjs. My first attempt using both technologies
 
 Clone this repo.
 
+Run ``npm install``
+
 Make sure you have **Angular** and **NestJs** cli's isntalled. 
 
 Angular: ``npm install -g @angular/cli``
