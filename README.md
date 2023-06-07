@@ -6,6 +6,6 @@ Put together an Angular app that displays different dog breeds and clicks throug
 
 ## Technologies used
  
-This is my first attempt at using Angular and Nestjs. 
+Angular and Nestjs. My first attempt using both technologies 
  
  
