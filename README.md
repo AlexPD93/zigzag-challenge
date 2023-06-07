@@ -8,4 +8,11 @@ Put together an Angular app that displays different dog breeds and clicks throug
  
 Angular and Nestjs. My first attempt using both technologies 
  
+## Get started
+
+Clone this repo.
+
+Cd into **dogsapp-frontend**. Run ``npm start`` to launch local host for front end.
+
+Cd into **dogsapp-backend**. Run ``npm start`` to launch local host for back end.
  
