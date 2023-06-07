@@ -22,5 +22,5 @@ Nestjs: ``npm install -g @nestjs/cli``
 
 Cd into **dogsapp-frontend**. Run ``npm start`` to launch local host for front end.
 
-Cd into **dogsapp-backend**. Run ``npm start`` to launch local host for back end.
+In a **new** terminal. Cd into **dogsapp-backend**. Run ``npm start`` to launch local host for back end.
  
